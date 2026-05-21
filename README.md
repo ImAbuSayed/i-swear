@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/i-swear/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for I Swear](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/i-swear/) |
+| **Get License** | [Request Licensing for I Swear](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/i-swear/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I swear there's thunder in the way you touch
+> I swear I've never craved a midnight this much
+> I swear the neon lights are melting on your skin
+> I swear I'm ready for the fire to begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
