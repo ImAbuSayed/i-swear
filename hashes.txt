@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - I Swear
+
+This log tracks the cryptographic history and versioning for the song **I Swear** (i-swear).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T05:16:51.715833 | `v1` | `34f1567c9404736e3d6aaca42c0be8cf2501a4606fdfda48231533d5db61bdd1` | `6a729081abb019419629076f4377b3cd58b0f2ab62c28330b5b10dd1d45a36aa` | `2026-05-22_i-swear-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
